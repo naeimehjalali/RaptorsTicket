@@ -1,0 +1,29 @@
+{
+"count":5,
+"data":
+[{
+  "type":"Balcony Level",
+  "price":"2.34$",
+  "quantity":2
+  },
+ {
+  "type":"Lower Level",
+ "price":"52.17$",
+  "quantity":5
+ },
+  {
+  "type":"Courtside",
+  "price":"83.331$",
+  "quantity":3
+ },
+ {
+  "type":"Balcony Level",
+  "price":"8.19$",
+  "quantity":7
+  },
+ {
+  "type":"Lower Level",
+ "price":"93.906$",
+  "quantity":9
+ }]
+}
