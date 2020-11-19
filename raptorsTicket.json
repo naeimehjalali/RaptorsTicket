@@ -1,29 +1,19 @@
 {
-"count":5,
+"Tickets":3,
 "data":
 [{
   "type":"Balcony Level",
-  "price":"2.34$",
-  "quantity":2
+  "price":1.170,
+  "quantity":12
   },
  {
   "type":"Lower Level",
- "price":"52.17$",
-  "quantity":5
+ "price":10.434,
+  "quantity":20
  },
   {
   "type":"Courtside",
-  "price":"83.331$",
-  "quantity":3
- },
- {
-  "type":"Balcony Level",
-  "price":"8.19$",
-  "quantity":7
-  },
- {
-  "type":"Lower Level",
- "price":"93.906$",
-  "quantity":9
+  "price":27.777,
+  "quantity":15
  }]
 }
