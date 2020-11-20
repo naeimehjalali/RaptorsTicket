@@ -1,19 +1,24 @@
 {
-"Tickets":3,
+"Tickets":4,
 "data":
 [{
-  "type":"Balcony Level new",
+  "type":"Balcony Level",
   "price":1.170,
-  "quantity":1200
+  "quantity":12
   },
  {
   "type":"Lower Level",
  "price":10.434,
-  "quantity":2010
+  "quantity":20
  },
+ {
+   "type":"Upper Level",
+ "price":15.434,
+  "quantity":30
+ } ,
   {
-  "type":"Courtside new",
+  "type":"Courtside",
   "price":27.777,
-  "quantity":1599
+  "quantity":15
  }]
 }
